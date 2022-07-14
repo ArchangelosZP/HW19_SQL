@@ -1,6 +1,3 @@
-Drop Table public."wallet";
-Drop Table public."user";
-
 CREATE TABLE public."user"
 (
     user_id integer NOT NULL,
